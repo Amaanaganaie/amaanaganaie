@@ -29,7 +29,9 @@ Driven by curiosity, discipline, and first-principles thinking, I focus on learn
 
 ### 📫 Let’s Connect
 GitHub: [amaanaganaie](https://github.com/amaanaganaie)  
+
 Email : amaanaganaie@gmail.com
+
 Instagram :(https://www.instagram.com/amaanaganaie)
 
 ---
