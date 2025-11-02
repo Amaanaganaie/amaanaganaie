@@ -38,7 +38,7 @@ can expand human understanding and access to knowledge.
 A platform designing digital tools and resources to help students study smarter, not harder.  
 [Visit AceVault →](https://acevault-jee.carrd.co)
 – A self-initiated venture exploring how design and technology can simplify academic learning.  
-Built and launched [AceVault](https://acevault-jee.carrd.co) as a digital platform integrating JEE-focused study systems and Notion-based productivity tools.  
+Built and launched,AceVault,as a digital platform integrating JEE-focused study systems and Notion-based productivity tools.  
 All digital resources are distributed via Gumroad, with future plans for research-backed learning optimizations.
 
 ---
