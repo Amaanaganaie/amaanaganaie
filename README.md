@@ -1,4 +1,4 @@
-<h1 align="center">👋 I'm Amaan Ganaie</h1>
+<h1 align="center">👋 I'm Amaan Ayub Ganaie</h1>
 
 <p align="center">
 Independent learner & builder from <b>Kashmir, India</b> — exploring how <b>technology, systems, and learning design</b> 
