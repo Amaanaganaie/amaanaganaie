@@ -1,4 +1,4 @@
-# 👋 Amaan Ganaie
+# 👋 Amaan Ayub Ganaie
 
 Independent learner and builder from Sopore, Kashmir — exploring how **technology, systems, and design** can expand human learning and access to knowledge.
 
