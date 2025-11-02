@@ -1,39 +1,42 @@
-# 👋 Amaan Ayub Ganaie
+<h1 align="center">👋 I'm Amaan Ganaie</h1>
 
-Independent learner and builder from Sopore, Kashmir — exploring how **technology, systems, and design** can expand human learning and access to knowledge.
-
-Driven by curiosity, discipline, and first-principles thinking, I focus on learning deeply and creating projects that make education more open and effective.
-
----
-
-### 🔭 Current Explorations
-- Building open learning systems for students in resource-limited regions  
-- Studying computer science and system design independently  
-- Applying structure and clarity to complex ideas  
+<p align="center">
+Independent learner & builder from <b>Kashmir, India</b> — exploring how <b>technology, systems, and learning design</b> 
+can expand human understanding and access to knowledge.
+</p>
 
 ---
 
-### 🧠 Guiding Beliefs
-- True understanding means clarity — if it’s not simple, it’s not learned.  
-- Small, consistent improvements compound into deep mastery.  
-- Impact is created when curiosity meets execution.  
+### 🔭 Current Focus
+- Designing open learning tools for students in resource-limited regions  
+- Deepening my understanding of computer science and system design  
+- Building with clarity, precision, and long-term purpose  
 
 ---
 
-### ⚙️ Tools & Focus Areas
-- Web technologies (HTML, CSS, JS – early stage)  
-- System design fundamentals  
-- Learning psychology and accessibility  
+### 🧠 Guiding Principles
+> “If you can’t make a six-year-old understand it, you haven’t learned it yourself.”  
+
+- Simplicity is power — clarity before complexity  
+- Small, consistent progress compounds into mastery  
+- Purpose matters more than speed  
 
 ---
 
-### 📫 Let’s Connect
-GitHub: [amaanaganaie](https://github.com/amaanaganaie)  
-
-Email : amaanaganaie@gmail.com
-
-Instagram :(https://www.instagram.com/amaanaganaie)
+### ⚙️ Areas of Interest
+- Learning technology & educational design  
+- Web development fundamentals  
+- Systems thinking and design clarity  
 
 ---
 
-> “Knowledge grows when it’s shared with precision and purpose.”
+### 📫 Connect
+- **GitHub:** [amaanaganaie](https://github.com/amaanaganaie)  
+- **Email:** amaanaganaie@gmail.com
+- **Instagram:** https://instagram.com/amaanaganaie/
+
+---
+
+<p align="center">
+  <i>"Knowledge grows when it’s shared with precision and purpose."</i>
+</p>
