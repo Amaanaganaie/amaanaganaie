@@ -31,7 +31,9 @@ can expand human understanding and access to knowledge.
 ---
 ### 🚀 Projects & Initiatives
 
-**AceVault**  **<img src="https://images.weserv.nl/?url=acevault-jee.carrd.co/assets/images/image01.jpg?v=ef528dd7&w=100&h=100&fit=cover&mask=circle" width="20" style="vertical-align:middle;"/>**
+**AceVault**
+
+**<img src="https://images.weserv.nl/?url=acevault-jee.carrd.co/assets/images/image01.jpg?v=ef528dd7&w=60&h=60&fit=cover&mask=circle" width="44" style="vertical-align:middle"/>**
 
 A platform designing digital tools and resources to help students study smarter, not harder.  
 [Visit AceVault →](https://acevault-jee.carrd.co)
