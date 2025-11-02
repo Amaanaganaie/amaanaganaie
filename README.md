@@ -31,7 +31,11 @@ can expand human understanding and access to knowledge.
 ---
 ### 🚀 Projects & Initiatives
 
-**AceVault** – A self-initiated venture exploring how design and technology can simplify academic learning.  
+**AceVault**  **<img src="https://images.weserv.nl/?url=acevault-jee.carrd.co/assets/images/image01.jpg?v=ef528dd7&w=100&h=100&fit=cover&mask=circle" width="20" style="vertical-align:middle;"/>**
+
+A platform designing digital tools and resources to help students study smarter, not harder.  
+[Visit AceVault →](https://acevault-jee.carrd.co)
+– A self-initiated venture exploring how design and technology can simplify academic learning.  
 Built and launched [AceVault](https://acevault-jee.carrd.co) as a digital platform integrating JEE-focused study systems and Notion-based productivity tools.  
 All digital resources are distributed via Gumroad, with future plans for research-backed learning optimizations.
 
