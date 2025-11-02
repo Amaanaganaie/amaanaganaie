@@ -29,6 +29,13 @@ can expand human understanding and access to knowledge.
 - Systems thinking and design clarity  
 
 ---
+### 🚀 Projects & Initiatives
+
+**AceVault** – A self-initiated venture exploring how design and technology can simplify academic learning.  
+Built and launched [AceVault](https://acevault-jee.carrd.co) as a digital platform integrating JEE-focused study systems and Notion-based productivity tools.  
+All digital resources are distributed via Gumroad, with future plans for research-backed learning optimizations.
+
+---
 
 ### 📫 Connect
 - **GitHub:** [amaanaganaie](https://github.com/amaanaganaie)  
